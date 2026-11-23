@@ -14,7 +14,7 @@ public class compareToIgnoreCase {
 		
 		String s1 = "deepak";
 		String s2 = "";
-		System.out.println(s1.compareTo(s2));				//output: 0
+		System.out.println(s1.compareTo(s2));				//output: 6
 	}
 
 }
